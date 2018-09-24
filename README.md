@@ -1,2 +1,2 @@
 # real-time-math-quiz
-A simple quiz application with Express and ReachJS
+A simple quiz application with Express and ReactJS
